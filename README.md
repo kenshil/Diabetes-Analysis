@@ -1,5 +1,2 @@
-# Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+In this study, we are conducting an Exploratory Data Analysis to examine diverse facets of diabetes within the Pima tribe. The investigation employs two distinct modeling approaches: Regression Model and Random Forest Model. Upon evaluating these models, it becomes evident that Regression models provide a degree of interpretability, facilitating a clearer understanding of the influence of individual predictors on the response variable. On the other hand, Random Forest models demonstrate proficiency in capturing non-linear relationships between features and the likelihood of diabetes.
