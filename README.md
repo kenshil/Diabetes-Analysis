@@ -1,2 +1,3 @@
 
 In this study, we are conducting an Exploratory Data Analysis to examine diverse facets of diabetes within the Pima tribe. The investigation employs two distinct modeling approaches: Regression Model and Random Forest Model. Upon evaluating these models, it becomes evident that Regression models provide a degree of interpretability, facilitating a clearer understanding of the influence of individual predictors on the response variable. On the other hand, Random Forest models demonstrate proficiency in capturing non-linear relationships between features and the likelihood of diabetes.
+Note: Python is used to achieve this study.
